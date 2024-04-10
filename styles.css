@@ -1,0 +1,37 @@
+
+body {
+    background-color:#27fad7;
+    
+}
+
+
+.container-tip{
+    display: flex;
+    align-content: center;
+    
+}
+
+.phrase-tip{
+    background-color:#FAED27;
+    box-shadow: 5px 5px 5px black;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    height: 80px;
+    margin: 3px;
+    padding: 15px;
+    width: 300px;
+    
+}
+
+.btn-tip {
+    box-shadow: 5px 5px 5px black;
+    background: #381c8d;
+    border-radius: 4px;
+    color: rgb(177, 169, 169);
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 3px;
+    width: 120px;
+}
+
